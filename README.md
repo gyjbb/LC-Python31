@@ -7,7 +7,7 @@ July 04, 2023  4h
 
 Congratulations!\
 This is the 31th day for leetcode python study. Today we will learn about the Greedy Algorithm!\
-The challenges today are especially about ~~merging and updating intervals~~.
+The challenges today are especially about categorizing the situation into different parts clearly. Both questions today are by post-order loop/traversal. The first one is dealing with numbers, while the second one is accomplished with a binary search tree. A very good recap!
 
 
 ##  738.Monotone Increasing Digits
