@@ -10,7 +10,7 @@ This is the 31th day for leetcode python study. Today we will learn about the Gr
 The challenges today are especially about categorizing the situation into different parts clearly. Both questions today are by post-order loop/traversal. The first one is dealing with numbers, while the second one is accomplished with a binary search tree. A very good recap!
 
 
-##  738.Monotone Increasing Digits
+##  738.Monotone Increasing Digits, 968.Binary Tree Cameras, Summary
 If two digits are not monotone increasing, we minus the i+1th digit to 1 and change the ith digit to 9. And we use a postorder loop from the last digit of the given number, so the beginning digits can use the updated results from the last digits.
 ```python 
 class Solution:
